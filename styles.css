@@ -1,0 +1,22 @@
+body {
+	color: #ffe;
+	background-color: #023;
+}
+
+@font-face {
+	font-family: "splatoon bold";
+	src: url(splatoon1.otf);
+}
+
+@font-face {
+	font-family: "splatoon thin";
+	src: url(splatoon2.otf);
+}
+
+p {
+	font-family: "splatoon thin";
+}
+
+h1 {
+	font-family: "splatoon bold";
+}
