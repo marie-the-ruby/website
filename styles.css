@@ -5,12 +5,12 @@ body {
 
 @font-face {
 	font-family: "splatoon bold";
-	src: url(splatoon1.woff);
+	src: url(Splatoon1.woff);
 }
 
 @font-face {
 	font-family: "splatoon thin";
-	src: url(splatoon2.woff);
+	src: url(Splatoon2.woff);
 }
 
 p {
