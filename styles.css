@@ -1,6 +1,6 @@
 body {
 	color: #ffe;
-	background-color: #023;
+	background-image: url(background.gif);
 }
 
 @font-face {
@@ -15,8 +15,10 @@ body {
 
 p {
 	font-family: "splatoon thin";
+	text-align: center;
 }
 
 h1 {
 	font-family: "splatoon bold";
+	text-align: center;
 }
